@@ -14,7 +14,7 @@
 - Создать папку, куда будет загружен проект
 - В папке shift + ПКМ -> PowerShell
 - ```git clone https://github.com/madlaris/KOVER.git```
-- ```cd dem/database/```
+- ```cd demo/database/```
 - ```docker compose up```
 2) Java APP
 - Открыть IntelliJ IDEA
