@@ -10,7 +10,7 @@
 
 
 ### Порядок действий:
-1) BD
+1) DataBase
 - Создать папку, куда будет загружен проект
 - В папке shift + ПКМ -> PowerShell
 - ```git clone https://github.com/madlaris/KOVER.git```
